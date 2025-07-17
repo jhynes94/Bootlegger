@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 69f827a9736aa5941b5e978d5b7bc0b7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 15600000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 242276
+  packageName: Multi-Input First Person Controller
+  packageVersion: 2.7.1
+  assetPath: Assets/MFPC/Scenes/Example/FootstepTerrain.asset
+  uploadId: 632292

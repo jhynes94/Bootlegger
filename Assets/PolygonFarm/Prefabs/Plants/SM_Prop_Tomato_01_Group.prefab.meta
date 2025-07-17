@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 81bc710a4ec5fcf4bbe9b98ec25cb627
+timeCreated: 1555552535
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 146192
+  packageName: POLYGON Farm - Low Poly 3D Art by Synty
+  packageVersion: 1.6.4
+  assetPath: Assets/PolygonFarm/Prefabs/Plants/SM_Prop_Tomato_01_Group.prefab
+  uploadId: 756024

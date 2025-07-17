@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 50a64646e75c4a83bffffca3717aed3e
+timeCreated: 1692092137
+AssetOrigin:
+  serializedVersion: 1
+  productId: 242276
+  packageName: Multi-Input First Person Controller
+  packageVersion: 2.7.1
+  assetPath: Assets/MFPC/Scripts/Move/Core/PlayerStateMachine.cs
+  uploadId: 632292

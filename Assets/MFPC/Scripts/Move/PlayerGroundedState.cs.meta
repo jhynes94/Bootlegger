@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 41023092f6d045568853b28c3302307f
+timeCreated: 1692456619
+AssetOrigin:
+  serializedVersion: 1
+  productId: 242276
+  packageName: Multi-Input First Person Controller
+  packageVersion: 2.7.1
+  assetPath: Assets/MFPC/Scripts/Move/PlayerGroundedState.cs
+  uploadId: 632292

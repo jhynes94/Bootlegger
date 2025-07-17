@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: 83117e585b75c414db61dff08bf277b4
+AudioImporter:
+  externalObjects: {}
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 0
+    sampleRateSetting: 0
+    sampleRateOverride: 44100
+    compressionFormat: 1
+    quality: 1
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  normalize: 1
+  preloadAudioData: 1
+  loadInBackground: 0
+  ambisonic: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 242276
+  packageName: Multi-Input First Person Controller
+  packageVersion: 2.7.1
+  assetPath: Assets/MFPC/Resources/SFX/Footsteps/Grass/Grass_step_4.wav
+  uploadId: 632292

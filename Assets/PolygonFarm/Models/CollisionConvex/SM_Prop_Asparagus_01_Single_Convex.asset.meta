@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: af86cbf3b5942954182029d834363efa
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 146192
+  packageName: POLYGON Farm - Low Poly 3D Art by Synty
+  packageVersion: 1.6.4
+  assetPath: Assets/PolygonFarm/Models/CollisionConvex/SM_Prop_Asparagus_01_Single_Convex.asset
+  uploadId: 756024

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 60bd36fd3430fe24c91dbf1a7472d9ec
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 242276
+  packageName: Multi-Input First Person Controller
+  packageVersion: 2.7.1
+  assetPath: Assets/MFPC/Resources/Environment/Door_(1).prefab
+  uploadId: 632292

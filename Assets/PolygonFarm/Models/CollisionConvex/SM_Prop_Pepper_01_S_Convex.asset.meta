@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6e7babde9f4dbe14697ee223bed5c041
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 146192
+  packageName: POLYGON Farm - Low Poly 3D Art by Synty
+  packageVersion: 1.6.4
+  assetPath: Assets/PolygonFarm/Models/CollisionConvex/SM_Prop_Pepper_01_S_Convex.asset
+  uploadId: 756024

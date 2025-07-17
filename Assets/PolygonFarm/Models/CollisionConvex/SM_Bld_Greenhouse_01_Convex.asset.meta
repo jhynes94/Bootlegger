@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2d0f35965b8108d4f9b29744196ab3c1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 146192
+  packageName: POLYGON Farm - Low Poly 3D Art by Synty
+  packageVersion: 1.6.4
+  assetPath: Assets/PolygonFarm/Models/CollisionConvex/SM_Bld_Greenhouse_01_Convex.asset
+  uploadId: 756024

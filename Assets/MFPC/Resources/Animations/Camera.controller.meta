@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a57b5ccb326fbb542a5c3c36db0d5dfc
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 242276
+  packageName: Multi-Input First Person Controller
+  packageVersion: 2.7.1
+  assetPath: Assets/MFPC/Resources/Animations/Camera.controller
+  uploadId: 632292

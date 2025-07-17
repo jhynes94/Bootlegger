@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b97922abb60f7e841be3451b6bb53059
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 112000000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 242276
+  packageName: Multi-Input First Person Controller
+  packageVersion: 2.7.1
+  assetPath: Assets/MFPC/Scenes/Example/LightingData.asset
+  uploadId: 632292

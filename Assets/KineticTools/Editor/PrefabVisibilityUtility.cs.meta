@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 5ec7b7b675d394546a14b2542b95c3c0
+timeCreated: 1747753266
+AssetOrigin:
+  serializedVersion: 1
+  productId: 320736
+  packageName: Kinetic Tools - Object Placement & Gravity
+  packageVersion: 1.0
+  assetPath: Assets/KineticTools/Editor/PrefabVisibilityUtility.cs
+  uploadId: 767931

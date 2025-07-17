@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3de71c2ba7770be419207944b730778a
+timeCreated: 1555552536
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 146192
+  packageName: POLYGON Farm - Low Poly 3D Art by Synty
+  packageVersion: 1.6.4
+  assetPath: Assets/PolygonFarm/Prefabs/Plants/SM_Prop_Cabbage_01_L.prefab
+  uploadId: 756024

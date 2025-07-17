@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b78884f8290c9ef479821c4486c2cb69
+timeCreated: 1555552548
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 146192
+  packageName: POLYGON Farm - Low Poly 3D Art by Synty
+  packageVersion: 1.6.4
+  assetPath: Assets/PolygonFarm/Prefabs/Plants/SM_Prop_Cucumber_01_S.prefab
+  uploadId: 756024

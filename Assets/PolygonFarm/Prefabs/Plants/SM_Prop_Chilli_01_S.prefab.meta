@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d94b073b47f2f7b4cad86d8994b2323d
+timeCreated: 1555552567
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 146192
+  packageName: POLYGON Farm - Low Poly 3D Art by Synty
+  packageVersion: 1.6.4
+  assetPath: Assets/PolygonFarm/Prefabs/Plants/SM_Prop_Chilli_01_S.prefab
+  uploadId: 756024

@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 6230bfd1095d453cb4d575dd377200f3
+timeCreated: 1694510811
+AssetOrigin:
+  serializedVersion: 1
+  productId: 242276
+  packageName: Multi-Input First Person Controller
+  packageVersion: 2.7.1
+  assetPath: Assets/MFPC/Scripts/Input/PlayerInput/IPlayerInput.cs
+  uploadId: 632292

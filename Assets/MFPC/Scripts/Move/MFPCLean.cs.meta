@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 91ab0be5c1814431a271f6d117ef9b79
+timeCreated: 1695046002
+AssetOrigin:
+  serializedVersion: 1
+  productId: 242276
+  packageName: Multi-Input First Person Controller
+  packageVersion: 2.7.1
+  assetPath: Assets/MFPC/Scripts/Move/MFPCLean.cs
+  uploadId: 632292

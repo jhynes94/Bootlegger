@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0ab75b5adea960b439ab48b712140d75
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 242276
+  packageName: Multi-Input First Person Controller
+  packageVersion: 2.7.1
+  assetPath: Assets/Resources/AdvancedPlayerData.asset
+  uploadId: 632292

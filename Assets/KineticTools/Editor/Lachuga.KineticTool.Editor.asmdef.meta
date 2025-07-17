@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e3d986d7676a8f4478e9c558c7f12de3
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 320736
+  packageName: Kinetic Tools - Object Placement & Gravity
+  packageVersion: 1.0
+  assetPath: Assets/KineticTools/Editor/Lachuga.KineticTool.Editor.asmdef
+  uploadId: 767931

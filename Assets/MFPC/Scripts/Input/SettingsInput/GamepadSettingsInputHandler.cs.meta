@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 81eed979338e45dd877a9a2da296d7c5
+timeCreated: 1694605863
+AssetOrigin:
+  serializedVersion: 1
+  productId: 242276
+  packageName: Multi-Input First Person Controller
+  packageVersion: 2.7.1
+  assetPath: Assets/MFPC/Scripts/Input/SettingsInput/GamepadSettingsInputHandler.cs
+  uploadId: 632292

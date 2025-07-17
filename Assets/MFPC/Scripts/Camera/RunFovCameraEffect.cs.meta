@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: df800e0c0ba14dd19fc821ffe4722d6f
+timeCreated: 1695392943
+AssetOrigin:
+  serializedVersion: 1
+  productId: 242276
+  packageName: Multi-Input First Person Controller
+  packageVersion: 2.7.1
+  assetPath: Assets/MFPC/Scripts/Camera/RunFovCameraEffect.cs
+  uploadId: 632292

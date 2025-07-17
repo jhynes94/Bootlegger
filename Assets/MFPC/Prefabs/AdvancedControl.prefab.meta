@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b9b4f7a0f65130c469867d6fab6cf215
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 242276
+  packageName: Multi-Input First Person Controller
+  packageVersion: 2.7.1
+  assetPath: Assets/MFPC/Prefabs/AdvancedControl.prefab
+  uploadId: 632292

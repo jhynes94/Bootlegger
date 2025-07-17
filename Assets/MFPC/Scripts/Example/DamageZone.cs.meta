@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 57a0445a336a4432bcaee33e5be0bc8f
+timeCreated: 1695320430
+AssetOrigin:
+  serializedVersion: 1
+  productId: 242276
+  packageName: Multi-Input First Person Controller
+  packageVersion: 2.7.1
+  assetPath: Assets/MFPC/Scripts/Example/DamageZone.cs
+  uploadId: 632292

@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: c25821a6da3941a5ad8c4ffff511cf06
+timeCreated: 1694950243
+AssetOrigin:
+  serializedVersion: 1
+  productId: 242276
+  packageName: Multi-Input First Person Controller
+  packageVersion: 2.7.1
+  assetPath: Assets/MFPC/Scripts/Move/Movement/IMovement.cs
+  uploadId: 632292

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dec7d811017b3124295c65dc417ddec1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 242276
+  packageName: Multi-Input First Person Controller
+  packageVersion: 2.7.1
+  assetPath: Assets/MFPC/Resources/Materials/GridBox_Default_Transparent_Teleport_Zone.mat
+  uploadId: 632292

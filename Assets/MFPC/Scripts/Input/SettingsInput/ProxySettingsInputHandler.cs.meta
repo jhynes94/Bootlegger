@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 9809e97708344344a8ebcf4ea84518c8
+timeCreated: 1694794481
+AssetOrigin:
+  serializedVersion: 1
+  productId: 242276
+  packageName: Multi-Input First Person Controller
+  packageVersion: 2.7.1
+  assetPath: Assets/MFPC/Scripts/Input/SettingsInput/ProxySettingsInputHandler.cs
+  uploadId: 632292

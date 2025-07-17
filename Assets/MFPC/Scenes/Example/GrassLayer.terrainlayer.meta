@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bb09d1d4ea428c9418224b18ad24c5e1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 8574412962073106934
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 242276
+  packageName: Multi-Input First Person Controller
+  packageVersion: 2.7.1
+  assetPath: Assets/MFPC/Scenes/Example/GrassLayer.terrainlayer
+  uploadId: 632292

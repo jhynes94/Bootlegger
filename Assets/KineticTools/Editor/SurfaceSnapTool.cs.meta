@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 8b3c9ae1b5ed9ae4d879b612ac00c13c
+timeCreated: 1747577629
+AssetOrigin:
+  serializedVersion: 1
+  productId: 320736
+  packageName: Kinetic Tools - Object Placement & Gravity
+  packageVersion: 1.0
+  assetPath: Assets/KineticTools/Editor/SurfaceSnapTool.cs
+  uploadId: 767931

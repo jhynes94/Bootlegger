@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 00ddf84c660b4694a80f2ff638d5cee3
+timeCreated: 1695320033
+AssetOrigin:
+  serializedVersion: 1
+  productId: 242276
+  packageName: Multi-Input First Person Controller
+  packageVersion: 2.7.1
+  assetPath: Assets/MFPC/Scripts/Example/HealZone.cs
+  uploadId: 632292

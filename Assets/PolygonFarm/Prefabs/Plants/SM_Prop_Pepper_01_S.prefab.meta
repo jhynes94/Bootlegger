@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 82f10a03b26c99347a386e3353b20dce
+timeCreated: 1555552585
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 146192
+  packageName: POLYGON Farm - Low Poly 3D Art by Synty
+  packageVersion: 1.6.4
+  assetPath: Assets/PolygonFarm/Prefabs/Plants/SM_Prop_Pepper_01_S.prefab
+  uploadId: 756024

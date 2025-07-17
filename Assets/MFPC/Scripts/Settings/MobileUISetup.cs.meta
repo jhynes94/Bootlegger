@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: f4fb468423e94c99ac23369d1985a5a8
+timeCreated: 1694621901
+AssetOrigin:
+  serializedVersion: 1
+  productId: 242276
+  packageName: Multi-Input First Person Controller
+  packageVersion: 2.7.1
+  assetPath: Assets/MFPC/Scripts/Settings/MobileUISetup.cs
+  uploadId: 632292

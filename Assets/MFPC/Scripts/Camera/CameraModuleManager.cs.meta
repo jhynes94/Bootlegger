@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 4d8820c1c87846aab7b91b92fe989889
+timeCreated: 1699050638
+AssetOrigin:
+  serializedVersion: 1
+  productId: 242276
+  packageName: Multi-Input First Person Controller
+  packageVersion: 2.7.1
+  assetPath: Assets/MFPC/Scripts/Camera/CameraModuleManager.cs
+  uploadId: 632292

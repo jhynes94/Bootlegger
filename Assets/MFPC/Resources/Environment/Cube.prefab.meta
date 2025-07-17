@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a9ede9082967f90418954f3f53f6ed57
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 242276
+  packageName: Multi-Input First Person Controller
+  packageVersion: 2.7.1
+  assetPath: Assets/MFPC/Resources/Environment/Cube.prefab
+  uploadId: 632292

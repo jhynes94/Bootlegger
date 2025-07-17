@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c8d946f687cd5bd4a978b9972bcc18d5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 8574412962073106934
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 242276
+  packageName: Multi-Input First Person Controller
+  packageVersion: 2.7.1
+  assetPath: "Assets/MFPC/Scenes/Example/\u0421oncreteLayer.terrainlayer"
+  uploadId: 632292

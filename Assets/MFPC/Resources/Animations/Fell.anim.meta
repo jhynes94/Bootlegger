@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ab1a6a6cc5fc41c4083f291cca950b4a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 242276
+  packageName: Multi-Input First Person Controller
+  packageVersion: 2.7.1
+  assetPath: Assets/MFPC/Resources/Animations/Fell.anim
+  uploadId: 632292

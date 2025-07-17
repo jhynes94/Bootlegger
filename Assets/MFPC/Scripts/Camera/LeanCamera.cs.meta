@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 44a7f4ba07e44ab6892c4db3d3d3fa6a
+timeCreated: 1695326050
+AssetOrigin:
+  serializedVersion: 1
+  productId: 242276
+  packageName: Multi-Input First Person Controller
+  packageVersion: 2.7.1
+  assetPath: Assets/MFPC/Scripts/Camera/LeanCamera.cs
+  uploadId: 632292

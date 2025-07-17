@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1ac871eff8b1849468577789cb7e0a53
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 242276
+  packageName: Multi-Input First Person Controller
+  packageVersion: 2.7.1
+  assetPath: Assets/MFPC/Resources/Animations/Walk.anim
+  uploadId: 632292

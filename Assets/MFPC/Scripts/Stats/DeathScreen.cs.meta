@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: fb1a875ca53f8f04a8a92f4bbc746ff5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 242276
+  packageName: Multi-Input First Person Controller
+  packageVersion: 2.7.1
+  assetPath: Assets/MFPC/Scripts/Stats/DeathScreen.cs
+  uploadId: 632292

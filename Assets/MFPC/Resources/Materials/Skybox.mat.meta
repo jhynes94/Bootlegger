@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cd7645d412b38ea4ab292ac3434a0c15
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 242276
+  packageName: Multi-Input First Person Controller
+  packageVersion: 2.7.1
+  assetPath: Assets/MFPC/Resources/Materials/Skybox.mat
+  uploadId: 632292

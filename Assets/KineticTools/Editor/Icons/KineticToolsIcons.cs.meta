@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 42c34dccef774d9d83a3b6f2c82575db
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Overlay: {fileID: 2800000, guid: e5ab33088c49c4b4aba08a7a95fb6acf, type: 3}
+  - Pivot: {fileID: 2800000, guid: a0346ea1f680d0e48bd42a97f94f593d, type: 3}
+  - Snap: {fileID: 2800000, guid: 4519a2be59c794c4a9175665014dbbcf, type: 3}
+  - SnapNormal: {fileID: 2800000, guid: 37b3b8e978cc0f447b45c65daa30a913, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 320736
+  packageName: Kinetic Tools - Object Placement & Gravity
+  packageVersion: 1.0
+  assetPath: Assets/KineticTools/Editor/Icons/KineticToolsIcons.cs
+  uploadId: 767931
